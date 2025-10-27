@@ -1,2 +1,3 @@
-# delivery-issue-tracker
-Issue tracking repo for Delivery! mod.
+# Delivery! mod issue tracker.
+
+Submit any bug reports or feature suggestions through the issues channel.
